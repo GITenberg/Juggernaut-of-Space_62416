@@ -1,0 +1,41 @@
+_repo: Juggernaut-of-Space_62416
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ingels, Graham
+    birthdate: 1915
+    deathdate: 1991
+    gutenberg_agent_id: '51934'
+    url: http://www.gutenberg.org/2009/agents/51934
+    wikipedia: https://en.wikipedia.org/wiki/Graham_Ingels
+creator:
+  author:
+    agent_name: Cummings, Ray
+    aliases:
+    - Cummings, Raymond King
+    - King, Ray
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '8443'
+    url: http://www.gutenberg.org/2009/agents/8443
+    wikipedia: https://en.wikipedia.org/wiki/Ray_Cummings
+description: ''
+gutenberg_issued: '2020-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asteroids -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Radio broadcasting -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Juggernaut of Space
+url: http://www.gutenberg.org/ebooks/62416
