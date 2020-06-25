@@ -1,5 +1,5 @@
 _repo: Juggernaut-of-Space_62416
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Ingels, Graham
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '51934'
     url: http://www.gutenberg.org/2009/agents/51934
     wikipedia: https://en.wikipedia.org/wiki/Graham_Ingels
+covers:
+- cover_type: archival
+  image_path: 62416-h/images/cover.jpg
 creator:
   author:
     agent_name: Cummings, Ray
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8443
     wikipedia: https://en.wikipedia.org/wiki/Ray_Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62416#Juggernaut-of-Space
 gutenberg_issued: '2020-06-17'
 gutenberg_type: Text
 identifiers:
